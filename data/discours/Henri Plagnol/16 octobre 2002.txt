@@ -1,0 +1,57 @@
+A l'heure où la formidable valeur ajoutée de l'internet est la somme d'information véhiculée et l'apport de la connaissance, la mise à disposition par tous d'informations diffusées à tous présente un risque certain : l'absence de fiabilité du message et d'authentification de son expéditeur.
+L'atout majeur de e-administration est la certitude de l'information diffusée. L'information publique est un élément de la parole publique ; elle engage ses émetteurs, elle rassure les lecteurs et constitue une information de référence.
+Il était donc nécessaire que l'administration mette en place un dispositif permettant la consultation d'informations " certifiées " portées à la connaissance de l'usager qu'il puisse utiliser en toute sécurité dans les actes de sa vie quotidienne.
+Un premier pas a été accompli avec " service-public.fr " pour l'information administrative.
+Un second pas indispensable vient d'être franchi avec le nouveau portail légifrance permettant à l'usager de disposer gratuitement de la garantie de qualité et de fiabilité inhérente à un site placé sous le contrôle direct de l'Etat, " producteur " des données juridiques.
+Je suis très fier, aujourd'hui d'inaugurer ce nouveau portail, qui illustre de manière significative la Réforme de l'Etat telle que je la conçois : transparence et amélioration du service rendu afin de simplifier la vie de l'usager.
+1. Legifrance propose un service d'accès au droit combinant technicité et simplicité
+1.1. La fonction " portail ".
+Légifrance donne accès par liens à un ensemble de sites publics qui permettent de prendre connaissance du droit en vigueur ou en préparation, en France et à l'Etranger.
+A cet égard on peut signaler :
+-- le lien avec les sites des assemblées parlementaires Assemblée nationale et Sénat), qui permet de prendre connaissance de l'état des textes en cours d'élaboration et des débats auxquels ils donnent lieu, permettant ainsi aux personnes intéressées d'anticiper le changement ;
+-- le lien avec les sites des autorités administratives indépendantes, qui concourent, dans leurs domaines d'attributions, aux débats décisionnels et à la production des normes ;
+-- celui qui est établi avec les sites des juridictions européennes (Cour de Justice des Communautés et Cour européenne des droits de l'homme), dont les décisions ont depuis longtemps des répercussions très importantes sur le droit national ;
+-- enfin, Légifrance met à disposition une sélection de sites exploités par les Etats membres de la Communauté européenne ou par des organisations internationales.
+1.2. Les services propres.
+a) L'originalité de Légifrance tient d'abord à l'ampleur du champ couvert.
+Celui-ci correspond à l'ensemble des données juridiques que l'on peut regarder comme essentielles à la connaissance du droit.
+Il s'agit donc, non seulement des codes, lois et décrets mais aussi de la jurisprudence des différents ordres de juridiction :
+-- l'intégralité des décisions du Conseil constitutionnel et des Cours suprêmes (Conseil d'Etat, Cour de cassation). Le choix de l'exhaustivité correspond à un souci de transparence mais ouvre surtout l'accès à une formidable mine d'informations qui n'étaient pas jusqu'alors à disposition de l'usager.
+-- une sélection des jugements et arrêts des autres juridictions, permettant de ne pas " noyer " l'usager sous une diffusion de décisions de portée inégale.
+b) La seconde originalité concerne précisément les textes.
+Légifrance ne se contente pas de donner accès à la succession des textes, tels qu'ils paraissent au Journal officiel. Il donne également la possibilité de consulter une version " consolidée " du texte, qui intègre les modifications successives, fait apparaître la date d'entrée en vigueur de ces modifications, et signale les dispositions aujourd'hui abrogées.
+L'usager aura donc la faculté non seulement, de rechercher et lire la dernière loi qui a modifié le code qui l'intéresse, mais aussi de consulter le code, tel qu'il se présente après intégration de ces modifications.
+Cette " mise à jour " de la codification crée une sécurité juridique indispensable compte tenu du décalage que l'on constate aujourd'hui entre la promulgation d'une loi et sa codification.
+c) Legifrance, est au service du public en se donnant les moyens d'être consultable par tous.
+Les outils de recherche ont été conçus dans l'idée que Légifrance s'adresse aussi bien au " grand public " qu'aux praticiens du droit.
+Les modes de recherches ouvrent donc le choix entre des systèmes de recherche ne nécessitant pas un savoir juridique particulier (recherche en plein texte ou recherche par thème) et des systèmes de recherche experte qui font de Légifrance un véritable outil professionnel.
+C'est cela gagner en simplicité sans perdre en technicité.
+1.3. Troisième nouveauté et non des moindres: Légifrance est un service gratuit.
+Légifrance n'est pas simplement un site conçu pour la consultation en ligne. C'est aussi un dispositif qui permet de mettre les données juridiques à la disposition de ceux qui souhaitent les utiliser dans le cadre de leur activité propre.
+Il n'est pas utile de s'étendre sur l'apport incontestable d'un tel service à l'usager.
+J'espère, à ce titre, que la gratuité de la consultation de la jurisprudence créera ce qu'on peut appeler le " réflexe " juridique auprès des citoyens, des salariés ou encore des très petites entreprises qui envisageaient auparavant ce site payant comme une barrière, un terrain réservé aux professionnels du droit où il était difficile de "s'aventurer ".
+Concernant les professionnels, le système de licence de réutilisation, détenues par l'Etat, accordées à titre gracieux et non rétrocédables, favorise la création de valeur ajoutée. Apportant aux professionnels du droit des éléments de comparaison et de précision il valorisera pleinement leurs compétences propres.
+Il peut s'agir bien sûr des éditeurs spécialisés dans l'édition juridique, mais aussi d'entreprises ou d'associations qui souhaitent, par exemple pour enrichir leurs publications ou leurs intranets, disposer des données juridiques concernant tel ou tel secteur. La seule contrepartie demandée correspond au coût marginal de la mise à disposition.
+Ce régime des licences permet, en définitive, de s'assurer que l'utilisation qui sera faite des données répond à des exigences minimales de fiabilité et de sécurité juridique.
+2. Légifrance est une excellente illustration de ce que doit être la réforme de l'Etat à plusieurs titres.
+2.1. Le nouveau portail légifrance n'aurait pu voir le jour sans la collaboration efficace de plusieurs services et organismes de l'Etat :
+-- les services du Premier ministre :
+o le secrétariat général du Gouvernement, responsable du portail et Jean-Marc Sauvé qui a véritablement " porté " ce projet.
+o la direction des Journaux Officiels qui en est l'opérateur et notamment le Préfet Bolufer que je remercie de nous accueillir aujourd'hui.
+-- divers ministères : justice, affaires étrangères, finances
+-- les juridictions : Conseil constitutionnel, Conseil d'Etat et Cour de Cassation
+Le Comité consultatif créé auprès du Premier ministre jouera un rôle primordial en permettant d'améliorer régulièrement le service d'accès au droit par la présentation de rapports d'évaluation et d'apporter son expertise aux administrations désireuses de procéder à la diffusion de données juridiques sur l'internet.
+2.2. Légifrance en simplifiant l'accès au droit entre directement dans le cadre de la mission que m'a confié le Premier ministre : simplifier la vie des usagers.
+La logique de " portail " de légifrance permet, d'une part, de faciliter l'accès du public aux importantes ressources de données des administrations, d'autre part, de lui offrir des services propres, spécialement conçus pour répondre à ses attentes et dont la consultation est gratuite.
+Il faut, en effet, nous tourner vers la demande avant de bâtir l'offre et fournir un service riche et pratique à l'usager ou au citoyen, sans qu'il ait, pour accéder à l'information, à affronter la complexité de l'organisation administrative de l'Etat.
+Cette démarche correspond à une véritable attente des usagers comme en témoigne le succès de nouveau portail depuis sa mise en service le 16 septembre dernier puisque le nombre des consultations journalières est trois à quatre fois plus élevé que dans la première version du site.
+Ainsi :
+-- Légifrance est un outil efficace pour les professions et activités dont l'exercice comporte une dimension juridique.
+Cela concerne bien sûr les praticiens du droit (professions libérales, services juridiques des entreprises, fonctionnaires de l'Etat et des collectivités territoriales) dont les requêtes sont incontestablement affinées.
+Mais on constate qu'il existe également un besoin croissant d'information juridique dans des domaines divers, par exemple celui de la vie associative.
+-- Plus largement, c'est répondre à un souci démocratique que de permettre à tout citoyen de disposer d'un accès direct à la loi, alors qu'il n'en a généralement connaissance que de façon indirecte, notamment lorsqu'elle est lui est opposée à l'occasion de telle ou telle démarche.
+2.3. Enfin, d'un point de vue international, Légifrance contribue au rayonnement du droit français.
+Un portail qui donne accès gratuitement à la fois à aux données législatives et jurisprudentielles constitue une nouveauté qui nous est enviée par de nombreux pays.
+Il faut également souligner le remarquable travail, en collaboration avec le Quai d'Orsay de traduction des codes et lois en langue étrangère. Des codes comme le code de commerce, le code de la propriété intellectuelle ou le code de procédure civile sont déjà disponibles en version anglaise et espagnole.
+Ces traductions outre le fait qu'elles apportent une connaissance directe de notre législation, sont particulièrement susceptibles d'intéresser les juristes d'autres pays. Cette dimension nouvelle est un pas en avant primordial dans un contexte de soumission des marchés à la concurrence européenne et d'internationalisation croissante des relations contractuelles.
+(Source http://www.fonction-publique.gouv.fr, le 25 février 2003)

@@ -1,0 +1,160 @@
+Mesdames, Messieurs,
+
+
+Je suis ravie de pouvoir conclure aujourd'hui ce salon Open Source Experience. Je pense que ce cadre est idéal pour vous présenter la feuille de route du Gouvernement en matière de logiciels libres et de communs numériques au service de la transformation publique.
+
+Les acteurs que j'ai pu rencontrer à l'instant m'ont permis de voir à la fois une grande énergie pour aller de l'avant, un foisonnement d'idées et aussi un fort désir de pouvoir participer à la formidable aventure qu'est la transformation publique.
+
+Je vous remercie pour ces riches échanges et pour cet engagement qui est le vôtre.
+
+Pour commencer, je souhaite tout d'abord revenir sur la raison pour laquelle le Gouvernement a souhaité faire de ce sujet des logiciels libres et des communs numériques une de ses priorités.
+
+Le Président de la République a clairement exprimé lors de son allocution le 8 avril dernier devant tous les managers de l'État : nous devons aujourd'hui bâtir l'action publique du siècle qui s'ouvre.
+
+Bien évidemment, cette action publique du XXIème siècle comporte une dimension numérique majeure. Je vais rappeler une évidence que nous devons collectivement garder à l'esprit : aujourd'hui, les trois quarts des relations entre les Français et les institutions publiques se font via le numérique.
+
+Bien sûr, nous déployons d'autres canaux d'accès au service public, par exemple les espaces France services ou encore le téléphone, mais le fait est que pour beaucoup de nos concitoyens, le visage du service public, c'est une application mobile, un site web, une démarche en ligne.
+
+Dans ce contexte, nous avons trois principaux enjeux auxquels nous devons être capables de répondre.
+
+Le premier est un enjeu de qualité de service, à la fois pour les Français bien entendu, mais également pour nos agents publics dans leurs outils du quotidien.
+
+Cela signifie bien entendu renforcer la mutualisation au sein des administrations en nous appuyant sur les opportunités en la matière offertes par le code ouvert.
+
+C'est la raison pour laquelle nous développons le nouveau système de design de l'État de manière complètement ouverte. Il permettra demain d'unifier la marque de l'État en ligne. Plusieurs sites l'ont déjà adopté : mon ministère bien entendu, le site du Gouvernement, ou encore celui de l'Intérieur.
+
+C'est aussi pour cela que nous développons par exemple démarches-simplifiées.fr de manière totalement ouverte. Je me félicite que d'autres acteurs, que ce soit du côté des collectivités avec l'ADULLACT ou du côté de l'enseignement supérieur avec l'AMUE, puisse bénéficier de nos développements et contribuer à cette aventure collective qui a démarré- il faut le rappeler - par la mobilisation d'un agent public moteur.
+
+C'est également la raison pour laquelle, dans le cadre du plan de relance, j'ai dédié 30 millions d'euros des crédits de mon ministère pour financer des solutions libres pour les collectivités territoriales pour favoriser la mutualisation, qui est cruciale pour accompagner les collectivités les plus éloignées du numérique. Cela permet notamment de soutenir des entreprises du domaine.
+
+C'est aussi la raison pour laquelle tous les produits numériques développés dans le cadre des startups d'Etat sont développés en open source. Ce sont en effet aujourd'hui plus de 100 produits numériques qui ont été créé via ce programme d'intrapreneuriat qui fait confiance aux agents de terrain pour résoudre les problèmes rencontrés par les citoyens dans de très nombreux domaines.
+
+Le second est un enjeu d'ouverture. Je pense que l'une des premières exigences à laquelle notre démocratie doit être capable de répondre, c'est celle de la transparence sur les algorithmes et les codes sources de l'administration.
+
+Cette culture de la transparence est incarnée au sein de l'État, de longue date, par l'ouverture de la donnée – l'opendata - dans tous les champs des politiques publiques. Mais il est important de ne pas se limiter aux données, et s'intéresser aux algorithmes et aux programmes informatiques qui manipulent et exploitent les données.
+
+Nous avons vu l'acuité de ce sujet lors des débats pendant la crise notamment sur les applications de suivi des cas contacts.
+
+Bien sûr, cela ne signifie pas que tous nos concitoyens iront demain inspecter le code source de telle ou telle application publique. Mais il me paraît essentiel, et c'est un enjeu de confiance démocratique, que les plus initiés à ces sujets soient en capacité de voir ce que l'on fait, d'être des aiguillons et des contrôles de l'activité de l'État.
+
+Je vais notamment ouvrir dans les prochains jours le code source de FranceConnect, utilisé au quotidien par près de 32 millions de Français.
+
+Nous avons également ouvert cette année le code source de l'algorithme d'orientation en 3ème Affelnet Lycée.
+
+Nous nous sommes engagés à ouvrir également cette année le code source du calcul du prélèvement à la source.
+
+Le troisième enjeu majeur pour moi est celui de la souveraineté.
+
+Ce terme de souveraineté est très souvent utilisé en ce moment, notamment pour parler de numérique.
+
+Pour moi la souveraineté c'est conserver la maîtrise sur les solutions que l'on utilise et notre capacité à décider de notre destin.
+
+Cela signifie bien évidemment nous assurer d'un hébergement des données en Europe et à l'abri de toute règle extraterritoriale.
+
+Cela signifie aussi de promouvoir l'interopérabilité et la réversibilité des choix que nous faisons : nous devons garantir que nous conservons la maîtrise de nos choix technologiques. C'est un enjeu démocratique majeur pour moi que de m'assurer que les décisions techniques que nous prenons n'engagent pas les décisions de ceux qui nous suivrons. Le logiciel libre, est un vecteur de promotion de cette interopérabilité et de cette réversibilité.
+
+Enfin, la souveraineté c'est aussi pouvoir s'appuyer et promouvoir les communs bâtis sur des modèles ouverts. Je pense évidemment à ceux en matière de données géographiques tel OpenStreetMap ou ceux en matière d'information comme Wikipedia, qui sont de vraies richesse qui doivent être reconnues comme telles.
+
+En somme, les logiciels libres et les communs numériques peuvent nous permettre de progresser dans ces trois directions : ouverture, qualité et souveraineté.
+
+Il est important de rappeler que la France fait figure d'exemple en matière d'usage du logiciel libre et d'ouverture des codes sources publics. Elle est observée par ses pairs.
+
+Nous avons une longue histoire, qui dépasse les clivages partisans, de promotion des logiciels libres dans les administrations et plus largement dans notre tissu numérique.
+
+Plusieurs administrations sont pionnières de ces enjeux, notamment la Gendarmerie ou encore les impôts. Je constate que cette maturité en matière d'ouverture du code source et d'usage du logiciel libre va de pair avec le maintien d'une capacité forte à conduire des projets numériques
+
+Je crois que nous devons collectivement en être fiers et nous appuyer sur cet atout qui est le nôtre.
+
+Nous avons un tissu industriel, notamment de PME et d'ETI, très mobilisé sur ce sujet. Ce forum a d'ailleurs permis je crois de le mettre particulièrement en lumière.
+
+La Commission européenne, dans sa récente étude sur l'open source dans un échantillon de pays du monde entier, classe la France en tête sur le plan des politiques ciblant le secteur public, devant l'Italie, l'Espagne, le Royaume-Uni ou encore les Etats-Unis.
+
+Cette position, si elle nous honore, elle doit avant tout nous obliger à continuer à aller de l'avant.
+
+J'ai mesuré lors de mes échanges avec mes homologues européens en charge de l'administration publique et de la transformation publique combien la France sur ce sujet faisait figure de modèle.
+
+Toutefois, nous devons aussi être lucides sur le travail qu'il nous reste à accomplir sur ce sujet.
+
+Le rapport du député Eric BOTHOREL remis au Premier ministre en décembre dernier dresse un constat clair en la matière : le potentiel d'ouverture des codes sources administratif est encore très important. De même, l'usage des logiciels libres et des communs numériques peut être renforcé dans les administrations.
+
+Pour ces raisons, le Premier ministre a souhaité engager l'État dans une dynamique plus volontaire sur ce sujet.
+
+Je vous présente donc aujourd'hui le plan d'action du Gouvernement pour que nous renforcions nos efforts en la matière avec cette vision partagée.
+
+Le plan d'action que je présente aujourd'hui est simple, il repose sur trois enjeux essentiels :
+
+1. Renforcer le recours aux logiciels libres et aux communs numériques dans l'administration ;
+2. Développer et accompagner l'ouverture des codes sources publics ;
+3. S'appuyer sur les logiciels libres et sur les communs numériques pour renforcer l'attractivité de l'État-employeur.
+
+Il est rendu public dès à présent sur le site communs.numerique.gouv.fr.
+
+Au sein de mon ministère, c'est la direction interministérielle du numérique – la DINUM – qui est chargée de le mettre en oeuvre et d'animer autour de ces enjeux un collectif qui rassemble l'ensemble des administrations et la société civile.
+
+Premier axe : mieux connaître, utiliser et concevoir les logiciels libres et les communs numériques
+
+Nous avons déjà un effort à réaliser en matière de référencement et de visibilité pour ces offres libres pour les administrations.
+
+C'est ce que nous ferons via d'une part la promotion de ces offres au sein du catalogue des offres numériques pour les administrations, et d'autre part via la promotion des logiciels libres et les communs numériques significativement utilisés par l'administration.
+
+Nous devons développer l'échange d'expertise interne dans l'administration sur ce sujet et encourager la réutilisation les applications développés par d'autres administrations. Je crois fermement en tant que ministre des agents publics à l'importance de décloisonner les expertises entre les ministères.
+
+Cela nécessite également de faciliter l'accès aux supports contractuels, notamment interministériels, qui permettent de mobiliser les expertises nécessaires sur ces enjeux.
+
+Enfin, nous aurons à coeur d'accompagner les administrations qui veulent s'appuyer ou engager des dynamiques de créations de communs numériques au service de la conduite des politiques publiques.
+
+Second axe : développer et accompagner l'ouverture et la libération des codes sources
+
+Nous devons aller beaucoup plus loin dans l'accompagnement des administrations dans l'ouverture de leurs codes sources.
+
+Cela signifie aussi aider les administrations à mobiliser leurs écosystèmes autour des codes sources publiés.
+
+Conformément à l'ambition affirmée le Premier ministre, nous créons aujourd'hui la plateforme code.gouv.fr qui vise à référencer les codes et les bibliothèques publiés par des administrations. Le site réunit plus de 9 000 dépôts de code publiés par plus de 1 000 organisations publiques. Nous avons des organisations exemplaires en la matière, je pense par exemple à INRIA.
+
+Je souhaite que l'on puisse construire un inventaire des codes source encore non publiés mais susceptibles d'être réutilisés et qui doivent donc faire l'objet de travaux prioritaires.
+
+En la matière, nous avons un rôle important d'animation et de gouvernance : nous devons avoir des relais dans chaque ministère sur cet enjeu. C'est aussi l'un des objectifs de la refonte complète en 2021 de la gouvernance des ministères en matière de données, algorithmes et codes sources.
+
+Pour accélérer la mise en oeuvre de cette ambition, j'ajouterai prochainement par décret deux nouvelles licences parmi celles autorisées pour les codes sources publics : la première est la licence Eclipse Public License de la Fondation Eclipse ; la deuxième est la licence European Union Public License, publiée par la Commission européenne et qui est particulièrement pertinente pour tous les projets du secteur public.
+
+Troisième axe : S'appuyer sur les logiciels libres et open source et sur les communs numériques pour renforcer l'attractivité de l'État-employeur auprès des talents du numérique
+
+En tant que ministre de la fonction publique, j'y suis particulièrement attachée. La souveraineté numérique, c'est conserver un Etat employeur attractif en matière de numérique.
+
+L'ouverture de notre code source y contribue beaucoup, car vous le savez mieux que moi, la qualité du code est l'un des critères que regardent ceux qui aujourd'hui sont des experts du numérique lorsqu'ils choisissent un employeur.
+
+Nous intensifierons l'animation du réseau d'échange d'information et d'expertise des experts publics du code ouvert BlueHats.
+
+Nous avons notamment lancé un partenariat avec l'école CentraleSupelec, pour permettre à des élèves ingénieur de contribuer pendant six mois à des logiciels libres utilisés par les administrations
+
+Nous devons valoriser les agents et les chercheurs contribuant à des logiciels libres ou à des communs numériques. Nous organiserons un événement annuel fédérateur.
+
+L'enjeu est évidemment d'attirer des experts du libre, de l'open source et des communs numériques dans l'administration.
+
+Mon ambition est de conduire cette feuille de route de manière transparente et en mobilisant les acteurs de l'écosystème.
+
+Conformément au cap fixé par le Premier ministre et aux préconisations du député BOTHOREL, j'ai décidé de renforcer dans le budget proposé au Parlement en 2022 les équipes de mon ministère chargées de la promotion et l'animation interministérielle en matière de logiciel libre et de communs numériques.
+
+Cette équipe dédiée au sein de la direction interministérielle du numérique aura la charge de conduire ce plan d'actions et de porter cette vision dans les différents ministères.
+
+J'ai également souhaité que nous puissions construire un dialogue partenarial et pérenne avec les écosystèmes du logiciel libre, bien représentés aujourd'hui. C'est je crois une forte demande de leur part.
+
+Ce dialogue partenarial doit viser avant tout à faire progresser le service public : les administrations ont besoin de l'expertise et de la créativité de l'écosystème du logiciel libre, autant qu'elle a besoin des éditeurs logiciels français et européens.
+
+Je vais donc créer une instance d'expertise et de mobilisation sur la mise de ce plan d'action.
+
+Elle se composera à la fois d'administrations, qui pourront y trouver un cénacle pour renforcer le partage d'expertise et de solutions, et de représentants de l'écosystème qui pourront ainsi contribuer au plan d'action.
+
+Je souhaite que le travail de cette instance de dialogue soit le plus concret possible sur des sujets très précis, par exemple en matière de gouvernance à privilégier, de projets à mutualiser ou encore de partenariats à nouer.
+
+Pour conclure, je souhaite à nouveau souligner qu'il s'agit là d'un enjeu très fort de transformation numérique de notre administration.
+
+Mais au-delà, il s'agit d'un enjeu de rayonnement de la France alors que se prépare dans quelques semaines la Présidence française du Conseil de l'UE.
+
+De nombreux états membres se lancent dans cette dynamique de création d'équipes dédiées à ce sujet. Je souhaite que la France puisse continuer d'être à l'avant-garde en la matière.
+
+
+Je vous remercie pour votre attention.
+
+
+Source https://www.transformation.gouv.fr, le 23 novembre 2021

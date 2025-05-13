@@ -1,0 +1,46 @@
+Mesdames, Messieurs,
+
+Je voudrais avant tout partager avec vous une anecdote. En novembre 2001, l'institut de gestion publique a réuni une quarantaine d'usagers des administrations, internautes ou non, pour mieux cerner les attentes des Français en matière d'administration électronique. Pendant plus de deux heures, une conversation à bâtons rompus s'est donc engagée sur les priorités des services publics en ligne.
+
+Nous avons alors constaté que les idées et les aspirations spontanées des usagers en matière de services publics en ligne correspondent le plus souvent à ce qu'ils peuvent trouver dès à présent sur le web, mais ils ne le savent pas. Les usagers veulent pouvoir trouver sur internet un guide des démarches administratives : il en existe un sur service-public.fr. Ils veulent pouvoir consulter le calendrier des démarches : les sites de ministères les fournissent. Ils veulent pouvoir télécharger les formulaires : les formulaires sont à peu près tous en ligne. Ils veulent connaître les pièces justificatives à présenter : les listes sont sur Service-public.fr ; Ils veulent les adresses et les responsables des services de proximité : Service-public.fr les recense tous.
+
+Mis directement en face de service-public.fr, plusieurs usagers ont indiqué que c'était " exactement ce qu'il faudrait faire ", et qu'il était urgent qu'un tel portail internet des administrations soit mis en ligne " pour de vrai ". Les animateurs présents ont eu du mal à les convaincre que ce qu'ils avaient sous les yeux n'était pas une maquette, mais bien un site ouvert depuis novembre 2000, quotidiennement enrichi et amélioré par La Documentation française et ses nombreux partenaires.
+
+Ce n'est pas seulement pour décerner un satisfecit à Service-public.fr que je vous livre cette anecdote.
+Elle démontre en effet que ce site n'a, à l'évidence, pas atteint à ce jour la notoriété qu'il mérite. Avec 600 000 visites par mois et une hausse de la fréquentation de 50% en un an, Service-public.fr a certes commencé à se frayer un chemin dans la vie quotidienne des Français. Il faut maintenant accélérer cette progression, en faisant mieux connaître les services qu'apporte le web public aux usagers et aux agents publics. Service-public.fr doit devenir un réflexe aussi naturel, pour accéder aux démarches administratives, que d'aller à la mairie de son domicile.
+
+Tel est l'objectif de la campagne d'information que nous lançons aujourd'hui, et notamment des spots télévisés présentés ce matin.
+
+Sur service-public.fr, en effet, et à travers ce portail grâce à l'ensemble du web public, nous offrons aujourd'hui une nouvelle manière de préparer et d'effectuer ses démarches administratives. 2700 fiches pratiques, 1600 questions/réponses, 1100 formulaires téléchargeables, 7000 sites publics accessibles, une lettre d'actualité, un moteur de recherche sur le web public et déjà 121 téléservices (le double d'il y a 6 mois). Parmi ces derniers, on peut citer les demandes de copie et d'extrait d'actes d'état-civil, les démarches liées aux papiers d'identité, les documents concernant les véhicules (carte grise, certificat de non-gage, permis de conduire, etc.), l'accès aux archives, la réservation de livres en bibliothèque, voire des services très pratiques comme les demandes de rendez-vous avec le maire ou d'intervention des services municipaux. Oui, Service-public.fr est bien la première réponse à toutes vos questions.
+
+Loin de déshumaniser les relations avec les administrations, les hommes et les femmes du service public sont, sur internet plus que jamais, à l'écoute des usagers. Les quelques 3000 courriers électroniques reçus chaque mois, auxquels il est répondu dans les 48 heures, en sont le meilleur témoignage. Grâce à cette campagne, grâce surtout aux agents qui animent quotidiennement service-public.fr, les services publics répondent de mieux en mieux aux attentes des usagers.
+
+Il faut également voir dans cette campagne le signe avant-coureur de nouvelles évolutions, de nouveaux téléservices, d'une administration appelée à recourir de plus en plus fréquemment aux technologies de l'information et de la communication pour exercer ses missions.
+
+Ainsi, nous mettrons tout en oeuvre pour que, d'ici 2005, chaque usager puisse disposer d'un site qui lui permettra d'effectuer en ligne toutes ses démarches administratives et d'accéder à l'ensemble des informations qui le concernent personnellement. Chaque usager pourra y conserver de manière dématérialisée, en toute sécurité et confidentialité, les pièces justificatives et les documents résultant de ces démarches.
+
+Mais attention ! La plus grande efficacité des services publics ne saurait s'acheter au prix d'une moindre protection des données personnelles et des libertés individuelles de chaque usager. La question des modalités de cette protection à laquelle les Français sont légitimement attachés doit être posée.
+
+La première réponse à ce qui se manifeste d'abord comme une inquiétude des usagers, c'est bien entendu que l'administration électronique n'est pas obligatoire. Elle est une faculté donnée aux usagers, en aucun cas une contrainte qui s'imposerait à eux.
+
+Au-delà, l'enjeu demeure : loin d'être un outil entre les mains des administrations qui rendrait les citoyens transparents vis-à-vis des pouvoirs publics, l'administration électronique doit être un outil entre les mains des usagers qui rendraient, à leur profit, l'administration transparente. C'est la condition de son succès et, au final, c'est son principal intérêt démocratique.
+
+Encore faut-il ne pas se tromper en matière de protection des données personnelles : il ne s'agit pas de reprendre le combat de 1974.
+
+Les bases de données de l'administration sont aujourd'hui déclarées à la commission nationale informatique et libertés, elles sont régulièrement auditées et contrôlées par elle, les développements informatiques lui sont soumis, les sites publics lui sont déclarés et font l'objet de règles de gestion précises et publiées. Quand il le faut, la CNIL refuse, comme il est normal, des interconnexions souhaitée par tel ou tel opérateur. Bref, le système fonctionne, et il fonctionne plutôt bien !
+
+Nous ne cherchons d'ailleurs pas à créer de nouvelles bases de données sur les usagers. L'enjeu consiste, bien au contraire, à donner accès aux usagers aux systèmes d'information publics qui les concernent. De vous permettre de savoir que votre employeur demande un extrait de votre casier judiciaire, d'être prévenu des contrôles effectués sur votre déclaration de revenu, de suivre à la trace votre dossier de permis de construire au sein des administrations qui le traitent successivement.
+
+La méthode que le gouvernement a mise en place témoigne de son souci de concertation : un débat préalable à la mise en place des systèmes opérationnels aura lieu, tout au long de l'année 2002. Les choix que nous ferons seront le fruit de la discussion entre tous les acteurs.
+
+Ce débat va s'engager dans les semaines qui viennent. Il sera passionnant, crucial. Faisons en sorte qu'il soit également serein et sans arrière-pensées. La mission que j'ai confiée au président TRUCHE, au préfet FAUGERE et au professeur FLICHY permettra, dans les prochaines semaines, de réunir les conditions d'un débat transparent et démocratique. La CNIL a été associée dès le départ, depuis l'été, à la préparation de ce débat, naturellement et, je crois, de manière exemplaire.
+
+Mesdames, Messieurs,
+Contrairement à une idée reçue, contrairement à ce que nos adversaires voudraient faire croire, nous réformons l'Etat. Nous le réformons jour après jour, loin des " grands soirs " fantasmés par les uns ou les autres, mais au plus près du terrain et des usagers.
+
+Les techniques d'information et de communication sont un levier puissant de cette réforme. Construire une administration électronique efficace, solidaire et respectueuse des citoyens, voilà le pari que nous avions engagé en 1997. Cinq ans après, le succès de Service-public.fr et le lancement de cette campagne indiquent que nous sommes en passe de le gagner.
+
+Je vous remercie de votre attention.
+
+Seul le discours prononcé fait foi.
+(Source http://www.fonction-publique.gouv.fr, le 1er février 2002)

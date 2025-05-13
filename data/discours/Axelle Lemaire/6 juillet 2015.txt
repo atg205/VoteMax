@@ -1,0 +1,62 @@
+Bonjour à toutes et à tous,
+Je vous remercie de m'avoir invitée pour cette 4e édition du baromètre 2015 de la confiance des Français dans le numérique, étude pilotée par la Caisse des Dépôts et l'Association pour l'Economie numérique (ACSEL) que je félicite pour ce travail particulièrement utile et révélateur sur les mutations en cours.
+
+Je souhaiterais revenir sur les principaux enseignements que je retiens de cette étude, ainsi que sur la vision portée par le Gouvernement sur la confiance, ce ciment de l'économie numérique, et sur les différentes mesures et dispositifs permettant de la soutenir.
+[ 1  Sur l'édition 2015 du baromètre confiance numérique]
+* Tout d'abord, quelques remarques et faits marquants sur l'étude très complète que vous publiez aujourd'hui, et qui, pour la première fois, prend en compte d'une manière spécifique l'économie collaborative et les objets connectés.
+*Et de cette étude je retiens les faits suivants, en ce qui concerne les usages tout d'abord :
+- Alors que les taux d'utilisation des services qu'ils soient administratifs, financiers, commerciaux, ou sociaux sont importants, 40% des internautes ont confiance dans l'usage d'internet, un taux mesuré; par ailleurs la confiance se dégrade dans certains secteurs, comme l'administration en ligne, ce qui est clairement préoccupant ;
+-Pour autant, et d'une manière paradoxale, cette perception du risque, à défaut d'encourager, ne freine pas véritablement le développement des usages, à l'exemple par exemple du commerce en ligne (89% des personnes interrogées en sont adeptes, même si 43% seulement le font en confiance).
+
+*En ce qui concerne les données personnelles: On voit bien que les Français sont de plus en plus sensibles à leurs données personnelles et à leur protection, ce qui certainement dénote une certaine maturité vis-à-vis des nouveaux usages numériques et la volonté de plus en plus prégnante d'être et de rester maitre de ses données.
+*Deux exemples parmi d'autres qui témoignent des évolutions :
+- 21% des internautes sont réticents à la communication d'attributs d'identité en ligne contre 5% en 2019 ;
+- 29% sont prêts à mettre en ligne des photos contre 49% en 2013.
+
+*On perçoit une même logique pour les services d'identification : les services fournis par les tiers sont moins acceptées que les années précédentes ;
+*A noter le cas particulier de l'économie collaborative, qui, pour le coup, bénéficie d'une confiance très forte de ses utilisateurs, le premier levier de confiance étant naturellement la renommée de la plateforme. Au passage, j'en profite pour vous annoncer qu'une étude ambitieuse réalisée par les services de Bercy sur l'économie collaborative sera publiée pas plus tard que demain et permettra le lancement dès la rentrée prochaine d'une stratégie nationale pour l'économie collaborative.
+
+[ 2  La confiance, le ciment de la République numérique]
+
+Alors que retenir au global ?
+- D'abord que les Français ont de plus en plus de maturité et du recul vis-à-vis du numérique ;
+-Ensuite que les Français semblent en définitive plus « pratiquants que croyants »en matière d'utilisation de services numériques : la confiance même relative qu'ils ont dans certains services ne les empêche pas de les utiliser, et parfois très régulièrement.
+
+C'est donc ce constat nuancé qu'il nous faut prendre en compte aujourd'hui, nous acteurs de l'économie numérique,
+-pour faire en sorte que les Français restent bien sûr pratiquants, mais soient de plus en plus croyants ;
+-pour faire en sorte que cette pratique qui reste importante ne soit pas le résultat d'une résignation ou d'une ignorance mais bien celui d'un choix positif et assumé.
+
+Plus globalement, la confiance est le socle de la stratégie numérique du Gouvernement présentée par le Premier Ministre le 18 juin dernier et la confiance est le ciment de cette République numérique que nous contribuons à édifier.
+
+[ 3  Les actions menées : protection des données personnelles, loyauté des plateformes et vision industrielle]
+
+Alors, que fait le Gouvernement sur ce sujet ?
+
+JP Sartre disait : « La Confiance se gagne en gouttes et se perd en litres » .
+
+C'est donc ces gouttes qu'il s'agit de gagner, une par une.
+
+Et des actions concrètes sont prévues en ce sens et à plusieurs niveaux :
+*En matière de protection des données personnelles:
+- Car soutenir la confiance c'est déjà renforcer le cadre de protection des données personnelles, au plan européen comme au plan national et donner autant d'outils utilisables par les citoyens (de nouveaux droits comme l'autodétermination informationnelle, le droit d'opposition renforcé, le droit à l'oubli pour les mineurs, ou encore la portabilité des données sont autant de principes qui me sont chers, que le Gouvernement porte et qui pourront être inscrits dans le futur projet de loi numérique) ;
+- Nous voulons également soutenir les technologies de protection de la vie privée et nous annoncerons prochainement des actions sur le sujet ;
+- Enfin, j'appelle et je travaille à l'élaboration d'une « Magna Data », véritable charte européenne des droits individuels dans le numérique.
+
+*Par ailleurs, le travail en cours sur la loyauté des plateformes, des intermédiaires en ligne et en particulier des avis en lignes est de nature à stimuler la protection des utilisateurs et à soutenir une économie basée sur la confiance.
+*Enfin, en ce qui concerne les victimes d'actes de cybermalveillance: un dispositif d'assistance sera lancé sur l'ensemble du territoire et à destination des particuliers, des collectivités territoriales et des entreprises de toute taille dès la fin de cette année.
+
+Mais la confiance relève aussi d'une vision industrielle. Comme vous le savez, le numérique est au cur de la seconde phase de la Nouvelle France Industrielle qu'Emmanuel Macron et moi avons lancée le 18 mai dernier autour du projet « Industrie du Futur ».
+
+La transformation numérique des organisations de travail et des modèles d'affaire est au cur de ce projet central ainsi que des 9 solutions industrielles, construites dans une logique « market-driven » pour répondre à 9 marchés prioritaires. Trois d'entre elles sont des solutions « pure players » du numérique : l'économie des données, les objets intelligents et bien sûr la confiance numérique.
+
+Du composant nanoélectronique jusqu'au réseau télécom, en passant par le logiciel embarqué, cette solution vise à proposer aux citoyens comme aux entreprises, une offre intégrée permettant d'évoluer dans un environnement numérique de confiance.
+- A titre d'exemple, j'ai notamment remis en janvier dernier les premiers labels France Cybersecurity, un label attribué aux produits et services de cybersécurité français destiné à accroître leur visibilité notamment à l'international ; la seconde vague de labellisation est prévue pour fin septembre ;
+- Par ailleurs, des plateformes de virtualisation et de cybersécurité seront mises en uvre pour préconiser des évolutions de la réglementation sur la sécurisation des réseaux actuels et des futurs réseaux virtualisés. Un premier démonstrateur de ce type sur les infrastructures mobiles virtualisées a été présenté en juin 2015 aux portes ouvertes des Bell Labs d'Alcatel-Lucent.
+
+Au-delà de ces actions, le Gouvernement présentera dès la rentrée prochaine une stratégie nationale globale sur la cybersécurité.
+
+Autant d'échéances à venir donc, qui me permettent de vous donner rendez-vous très prochainement.
+
+Vous pouvez compter dans tous les cas sur ma mobilisation sur ce sujet.
+Je vous remercie.
+Source http://www.acsel.asso.fr, le 19 août 2015

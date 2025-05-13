@@ -1,0 +1,156 @@
+Il importe, d'abord, de faire le point sur les actions de recherche qui ont été menées et, ensuite, de préciser ce que nous avons décidé de faire pour renforcer cet effort de recherche.
+D'une part, comment la recherche a-t-elle été conduite jusqu'ici et quels sont ses résultats ? D'autre, comment cet effort de recherche va-t-il être renforcé, dans quelles directions et selon quelles modalités ?
+Bref, où en sommes-nous aujourd'hui et qu'allons-nous faire pour continuer de progresser ?
+LE BILAN DES ACTIONS DE RECHERCHE
+Le 17 avril 1996, les ministres de la Recherche, de la Santé et de l'Agriculture ont décidé la création d'un comité d'experts de veille scientifique, médicale et technique sur les encéphalopathies subaiguës spongiformes transmissibles (ESST) et les prions.
+Composé de 24 personnalités et présidé par le Dr Dominique Dormont (laboratoire de neuro-virologie du CEA), ce comité, placé auprès des trois départements ministériels, avait notamment pour mission de proposer " un programme de recherches inter-organismes visant notamment à caractériser le facteur de transmissibilité, à préciser la physiopathologie de la maladie, à mettre au point un test diagnostique, à préciser les modes de transmission et à explorer des outils pharmacologiques ".
+
+Le Programme spécifique de recherche sur les ESST
+Dès l'origine, la volonté a été de faire coopérer entre eux les divers organismes de recherche concernés, afin d'obtenir une forte coordination et mobilisation des efforts de recherche.
+Le 4 novembre 1996, une convention a été signée entre, d'une part, l'Etat, représenté par le Ministre de l'Education nationale, de l'Enseignement supérieur et de la Recherche, le Ministre du Travail et des Affaires sociales et le Ministre de l'Agriculture, et, d'autre part, le CNRS, le CEA, l'INRA, l'INSERM et le CNEVA (Centre national d'études vétérinaires et alimentaires).
+Cette convention fixe les conditions de mise en uvre du "programme spécifique de recherche sur les ESST", programme de recherche que l'Etat a décidé de financer de façon spécifique.
+Deux structures sont chargées de la mise en uvre de ce programme : le Comité directeur du Programme (CDP), présidé par le directeur de la Recherche, et la Cellule de coordination inter-organismes (CCI), placée sous la responsabilité de l'INSERM chargé de la coordination générale du programme, le CEA assurant sa gestion administrative et financière.
+Un premier avenant à cette convention a été signé le 28 juin 1999 entre l'Etat, représenté par les 3 ministres concernés, et le CNRS, le CEA, l'INRA, l'INSERM et l'AFSSA.
+D'une part, cet avenant proroge la convention jusqu'en novembre 2000. D'autre part, il intègre un nouveau partenaire à la convention, l'Agence française de sécurité sanitaire des aliments (AFSSA): ce nouvel établissement public administratif, créé par décret du 26 mars 1999, a en effet remplacé le CNEVA (Centre national d'études vétérinaires et alimentaires).
+70 millions de F en 2000
+Nous nous sommes attachés à doter ce programme spécifique de recherche sur les ESST et les prions de moyens croissants.
+Les crédits qui lui sont consacrés s'élèvent à 70 MF en 2000. Ces crédits se décomposent ainsi :
+20 MF au titre du FNS (Fonds national de la science) : ce montant est passé successivement de 1,6 MF en 1996 à 6,7 MF en 1997, 8,8 MF en 1998, 15 MF en 1999 et 20 MF en 2000 ;
+33 MF au titre des salaires ;
+17 MF au titre des crédits de laboratoires.
+Un bilan scientifique du programme a été dressé lors du " Colloque de suivi du Programme national de recherche sur les ESST et les prions ", qui s'est tenu à Paris, à l'Institut Pasteur, les 17 et 18 octobre 2000.
+La France figure avec la Grande-Bretagne, la Suisse et l'Allemagne parmi les pays européens qui poursuivent des recherches de très bon niveau.
+Les recherches françaises ont plusieurs points forts. Sur la tremblante naturelle du mouton notamment, les travaux français demeurent exemplaires (F. Schelcher, J.M. Elsen). Sur la pathogénèse (D. Dormont, H. Axelrad), les modèles cellulaires (S. Lehmann) et surtout les modèles de prions dans les organismes modèles comme la levure (C. Ullin), les contributions françaises sont particulièrement importantes.
+Le bilan des recherches
+A titre de premier bilan, on peut aboutir aux conclusions suivantes.
+I. La recherche fondamentale française a fourni récemment des données importantes
+Les données françaises acquises récemment concernent :
+la structure de la protéine PrP.
+le rôle de la protéine PrP dans les cellules normales, cette protéine pouvant intervenir dans la transmission d'informations de l'extérieur à l'intérieur de cellules nerveuses.
+Les recherches en cours portent sur :
+la mise en évidence des protéines avec lesquelles la PrP interagit, en s'appuyant sur les moyens puissants d'analyse dont dispose la biologie actuellement (modèle C. Elegans, double hybride en levures).
+la caractérisation des gènes impliqués dans la résistance ou la sensibilité des races d'ovins à la tremblante. Par analogie, la définition de tels facteurs permettrait de comprendre si chez l'homme un déterminisme génétique est associé au développement de pathologies.
+l'étude de prions d'organismes eucaryotes primitifs, levures entre autres, qui devrait apporter des éléments importants de compréhension.
+2. La mise en réseau de laboratoires français a permis de doter la communauté française d'outils qui lui faisaient défaut en 1996.
+Grâce aux réseaux de recherche mis en place à l'initiative du Programme de recherches des anticorps ont été produits sur lesquels reposent les test utilisables pour évaluer la présence de l'ESB (test Bio-rad mis au point par le CEA).
+En matière de modèles animaux, la France accusait un certain retard en 1996. Ces modèles permettent d'apprécier le caractère infectieux d'échantillons d'origine diverse. Les modèles utilisables sont des souris génétiquement modifiées, dites "transgéniques", porteuses de gènes d'origine humaine ou ovine. Leur obtention nécessite toujours plusieurs années de travail.
+La France dispose maintenant de souris transgéniques bovines en cours de validation, de souris "ovines" et "bovines" en phase de caractérisation, et de souris "humaines" en construction.
+Par ailleurs, les modèles animaux permettent des études de physiopathologie, dont l'objet est de comprendre comment s'établit la maladie. Un modèle de petits singes lémuriens, dont le caractère infectable a été démontré récemment à Montpellier, dote la France d'un nouvel outil en la matière.
+Enfin, grâce aux réseaux, plusieurs laboratoires français développent actuellement des systèmes cellulaires à même de multiplier les agent infectieux ex vivo. A terme, ces modèles cellulaires devraient être utilisables pour différencier des souches d'origines diverses, ou tester des agents thérapeutiques.
+3. La recherche thérapeutique s'amorce
+Des molécules à visée thérapeutique, dérivées de l'Amphotéricine B, sont en essai dans un modèle ovin. Dans ce modèle expérimental, ces molécules semblent agir dès la phase précoce de l'infection et retarder l'apparition de la maladie. Il s'agit toutefois d'études très préliminaires, qui ne permettent pas d'espérer la mise au point rapide de traitements.
+D'autre part, un laboratoire français porte ses efforts sur les modalités de délivrance de traitement vers le cerveau, organe normalement peu accessible.
+4. Les activités de surveillance et de recherche épidémiologique sur la maladie de Creutzfeldt-Jakob ont été développées
+Il faut distinguer la maladie "sporadique", identifiée depuis de nombreuses années et la maladie liée à l'épidémie bovine, dite nouveau variant de Creutzfeldt-Jakob, pour laquelle il y a eu en France jusqu'à présent trois cas.
+C'est probablement à l'efficacité de la surveillance qu'il faut attribuer l 'augmentation de l'incidence de la maladie sporadique observée en France en 1998-1999. Les prévisions concernant le nouveau variant de Creutzfeldt-Jakob sont particulièrement difficiles en France, en raison du faible nombres de cas observés.
+Les moyens mis en place ont donc eu un premier résultat positif, qui constitue un socle pour le développement des recherches. Car il est bien sûr nécessaire d'aller plus loin. Les progrès de la recherche seront en effet décisifs pour améliorer les connaissances, la prévention et le traitement de l'ESB et de ses conséquences pour l'homme.
+
+LE RENFORCEMENT DE L'EFFORT DE RECHERCHE
+Grâce à l'accord du premier ministre, qui l'a annoncé le 14 novembre dernier, le ministère de la Recherche a obtenu le triplement, dès l'année prochaine, des moyens consacrés à la recherche sur les ESST et les prions.
+Ces moyens passeront de 70 MF en 2000 à 210 MF en 2001, grâce à une mesure nouvelle de 140 MF.
+Cette mesure prendra la forme d'un amendement soit à la loi de finances rectificative 2000 (collectif budgétaire), soit à la loi de finances initiale de 2001.
+Ces moyens supplémentaires serviront à :
+renforcer les laboratoires de recherche sur les tests;
+construire et aménager des animaleries et des banques de tissus infectés;
+construire et aménager des laboratoires pour les recherches thérapeutiques sur l'homme;
+renforcer le potentiel de recherche par le recrutement de 120 chercheurs, ingénieurs et techniciens supplémentaires dans les organismes de recherche concernés : 100 dès 2001 et 20 en 2002 et 2003.
+100 personnels de recherche seront donc recrutés dès 2001, dont 25 post-docs.
+Cet effort accru servira à renforcer les quatre axes de recherche suivants :
+le développement de nouveaux tests de détection,
+la recherche sur la nature de l'agent infectieux et la physiopathologie des maladies à prions,
+la recherche épidémiologique et thérapeutique,
+la recherche de modes d'élimination des farines animales offrant une alternative à l'incinération.
+AXE 1 : mettre au point de nouveaux tests de détection
+La mobilisation des équipes scientifiques a permis la réalisation de tests de dépistage post mortem de la " maladie de la vache folle " sur des échantillons provenant du système nerveux central : le test mis au point par le CEA et développé par Biorad-France, celui de Prionics (Suisse) et celui d'Enfer (Irlande).
+Ces différents tests ESB présentent cependant plusieurs limites :
+- on ne détecte la maladie chez l'animal que 30 mois après l'infection ;
+- le test ne peut être mis en uvre qu'après la mort de l'animal (post mortem) ;
+- la technique de prélèvement est complexe puisque les échantillons proviennent du système nerveux central, protégé par la colonne vertébrale et la boîte cranienne.
+Par ailleurs, il n'existe pas de méthode de diagnostic rapide et sensible pour les ovins. Il n'en existe pas non plus pour l'homme.
+Il est important donc de poursuivre les travaux de recherche dans trois directions, afin d'améliorer les tests ESB existants et de disposer de méthodes diagnostiques rapides et sensibles chez les ovins et, à terme, chez l'homme :
+a- mettre au point un test de diagnostic pour l'ESB qui permette de détecter plus tôt les animaux infectés en utilisant des échantillons d'iléons
+Des études ont montré que c'est au niveau de l'iléon (segment de l'intestin grêle) que s'accumule le plus précocement la forme pathologique de la protéine prion chez les bovins.
+La détection de cette protéine prion dans ce tissu permettrait donc une détection plus précoce de la maladie. L'analyse de ce type de tissu est toutefois difficile, en raison à la fois de la faible concentration attendue en protéine pathologique et de la difficulté d'obtenir des échantillons provenant d'animaux infectés.
+A terme, il faut parvenir à un test ante mortem, pratiqué du vivant de l'animal.
+b- mettre au point un test ante mortem de la tremblante chez les ovins
+A la différence des bovins, mais comme les humains, les ovins présentent un envahissement important des tissus périphériques dès les stades précoces de la maladie. Certains travaux semblent avoir montré qu'il serait possible de détecter la forme anormale du prion dans le sang (globules blancs). Ces caractéristiques rendent envisageable la mise au point d'un test ante mortem chez le mouton.
+Celui-ci pourrait constituer une étape importante en vue de la mise au point d'un test chez l'homme. En effet, l'évolution du nouveau variant de la MCJ présente des analogies avec l'évolution de la maladie à prions chez le mouton.
+c- mettre au point un test chez l'homme pour le diagnostic du nouveau variant de la maladie de Creutzfeldt-Jakob
+L'objectif est difficile à atteindre, dans la mesure où les concentrations de protéines pathologiques en dehors du système nerveux sont probablement très faibles. La mise au point d'un tel test demande par conséquent un saut technologique par rapport aux méthodes existantes.
+A cet égard, les travaux, publiés dans Nature du 23 novembre 2000, du Pr Adriano Aguzzi de Zurich ouvrent peut-être de nouvelles perspectives diagnostiques, sans permettre encore de conclure quant aux applications immédiates.
+Une protéine du sang humain et de la souris, le " plasminogène " présenterait la particularité de s'accrocher spécifiquement à la forme anormale du prion, à l'exclusion de sa forme normale. Selon le Pr Aguzzi, le plasminogène représenterait donc le premier facteur endogène distinguant prion normal et anormal. La " propriété inattendue " de cette protéine sanguine " pourrait être exploitée à des fins diagnostiques ".
+Ce premier axe de recherche mobilisera notamment les équipes du CEA, qui sont particulièrement bien placées au niveau national et international, en liaison naturellement avec d'autres laboratoires (par exemple l'INRA, INSERM et l'AFSSA).
+35 millions de francs seront alloués à cet effet, notamment pour l'agrandissement des laboratoires de tests du CEA, étant entendu que les programmes de recherche seront soumis avant engagement à l'expertise du conseil scientifique et que cette somme pourra être revue en fonction de l'avancement de l'ensemble du plan.
+AXE 2 : comprendre la nature de l'agent infectieux,
+et la physiopathologie des maladies à prions
+Au-delà du développement des tests, il est nécessaire de mieux comprendre les mécanismes d'apparition et de développement de la pathologie.
+a- la compréhension de l'apparition de la pathologie
+On sait que l'apparition de la pathologie de la maladie à prions est liée à un changement de la conformation de la protéine prion, d'une conformation "normale" à une conformation "anormale".
+On sait également que ce passage d'une conformation normale à une conformation anormale peut être spontané, favorisé par des prédispositions génétiques ou induit par l'introduction accidentelle de prions dans l'organisme.
+Il reste cependant à connaître par quel mécanisme s'opère le passage de la conformation normale à la conformation anormale, et comment la protéine infectante arrive à faire passer la protéine normale sous une conformation infectante et, de proche en proche, à provoquer une accumulation de protéines de conformation anormale dans l'organisme et plus particulièrement dans le système nerveux central, où elle provoque la destruction massive de neurones qui donne au cerveau l'aspect spongieux caractéristique des maladies à prions.
+Plusieurs pistes sont à cet égard ouvertes :
+- soit la protéine anormale est elle-même un "chaperon", c'est-à-dire un "moule à protéines" qui conforme anormalement les autres protéines dès qu'il est introduit dans les autres organismes ;
+- soit la protéine anormale "recrute" un chaperon et arrive par ce biais à conformer de façon anormale les autres protéines saines dans l'organisme : il reste à comprendre comment, pourquoi et dans quels cas la forme anormale parvient à l'emporter sur la forme normale.
+Ce thème de recherche est évidemment capital pour parvenir à des solutions thérapeutiques. Savoir comment la forme pathologique " influence " la forme normale de la protéine prion permettrait en effet d'élaborer des outils capables d'inhiber cette conversion, voire de faire revenir la forme pathologique et anormale de la protéine à la forme normale.
+b- la compréhension de l'évolution de la maladie
+Actuellement, il existe une sorte de "fenêtre silencieuse" entre, d'une part, l'infection et les premiers jours de la maladie, où l'agent infectieux pénètre par la partie terminale du tube digestif, nommée iléon, et ,d'autre part, le stade tardif, 30 mois après, où l'agent infectieux apparaît dans le système nerveux et où il devient détectable.
+Comment est-on infecté ? Que se passe-t-il entre l'infection et l'apparition de la maladie dans le système nerveux ? Comment évolue l'agent infectieux ?
+Ces recherches permettront également d'étudier les mécanismes de réaction neuro-immunitaires pendant cette période, de voir comment interviennent ou non les défenses immunitaires naturelles.
+A cet égard, la construction et l'aménagement d'animaleries d'ovins et de bovins permettra de réaliser des infections expérimentales par différentes voies et d'étudier la cinétique de l'infection par abattages périodiques et analyse des tissus infectés.
+c- la compréhension de ce que représente la barrière d'espèces
+Il est essentiel de comprendre la spécificité de la maladie à prions dans chaque espèce et de connaître les facteurs qui peuvent empêcher le passage de la maladie d'une espèce à une autre, pour pouvoir renforcer cette barrière et agir plus efficacement contre la maladie.
+Ce deuxième axe de recherche mobilisera les équipes de l'INSERM, de l'INRA et du CNRS, en liaison avec d'autres laboratoires comme ceux du CEA, ou de l'AFSSA. L'ensemble de ces travaux nécessitera :
+des investissements importants consacrés aux animaleries protégées (souris transgéniques, ovins, lémuriens, primates),
+la construction d'une animalerie importante pour bovins, qui n'existe pas actuellement,
+la réalisation d'une banque de tissus infectés,
+le renforcement de la capacité de recherche, avec le recrutement de post docs, de chercheurs et de techniciens supplémentaires.
+71 millions de francs seront consacrés à ce deuxième axe de recherche.
+AXE 3 : développer la recherche épidémiologique et thérapeutique
+sur les maladies à prions
+Il s'agit ici, à partir des recherches sur l'origine de la maladie, d'élaborer des solutions thérapeutiques. Trois pistes peuvent être brièvement évoquées
+a- les études épidémiologiques.
+b- la recherche de molécules actives capables d'inhiber la réplication des prions " pathologiques " et d'en empêcher le développement.
+Cette recherche nécessite de recourir à des techniques de criblage à haut débit afin d'identifier rapidement les molécules actives, techniques qui sont actuellement maîtrisées au CEA.
+c- la recherche d'interventions sur le système immunitaire pour empêcher le développement de la maladie.
+Il s'agit de bloquer la communication entre les cellules dendritiques (situées dans la rate) et les lymphocytes B, pour empêcher le passage du prion vers le système nerveux central.
+L'objectif est de stopper la "neuroinvasion".
+d- le traitement de la maladie elle-même, c'est-à-dire les essais thérapeutiques
+Cet axe de recherche mobilisera les laboratoires de l'INSERM, du CEA et de l'Institut Pasteur. L'ensemble de ces travaux nécessite :
+la mise en place de laboratoires protégés spécifiquement dédiés aux recherches sur les maladies à prions au sein des IFR,
+la constitution d'une plate forme de criblage et d'une banque de matériels biologiques.
+30 millions de francs seront alloués à cet effet.
+
+AXE 4 : développer les recherches sur les modes d'élimination
+des farines animales alternatifs à l'incinération.
+Il s'agit d'un axe de recherche totalement neuf, sur lequel il s'agit d'abord de constituer de nouvelles équipes.
+Il est prévu de recruter à cet effet une dizaine de contractuels (chercheurs et ingénieurs) pour un coût de 4 MF.
+Cet axe de recherche relèvera de l'INRA, en liaison éventuellement avec le CEMAGREF.
+Ces recherches peuvent être engagées dans deux directions :
+mettre au point une ou plusieurs méthodes permettant de rendre ces matériaux,biologiquement et chimiquement inertes afin qu'ils puissent être stockés en toute sécurité,
+mettre au point des méthodes permettant que les protéines des farines animales puissent être transformées chimiquement ou absorbées par des micro-organismes. La question à traiter sera la vérification de la dégradation effective des protéines et la non-infectiosité des produits ainsi obtenus. Les produits transformés pourront, alors seulement, être épandus ou valorisés.
+Le renforcement de la coordination des organismes de recherche
+La coordination des différents organismes de recherche travaillant sur ces questions sera encore renforcée.
+L'objectif est de continuer à approfondir la coordination et la coopération inter-organismes et d'impliquer toutes les structures concernées, pour mobiliser très activement l'ensemble des efforts de recherche.
+1) D'une part, un second avenant à la convention relative au Programme spécifique de recherches sur les ESST et les prions a été signé le 22 novembre 2000 entre l'Etat (représenté par le ministère de la Recherche, le ministère de l'Agriculture et le secrétariat d'Etat à la santé) et tous les partenaires concernés : CEA, CNRS, INRA, INSERM, AFSSA, AFSSAPS et InVS.
+Il s'agit d'une part de proroger jusqu'à novembre 2001 la convention qui a mis en place le Programme de recherche sur les ESST et les prions.
+Il s'agit aussi d'élargir ce Programme à la participation de deux nouveaux partenaires : l'AFSSAPS (l'Agence française de sécurité sanitaire des produits de santé) et l'InVS (l'Institut de veille sanitaire).
+2) D'autre part, un Groupement d'intérêt scientifique (GIS) est en cours de constitution. Ce GIS sera formé par le ministère de la Recherche, le Ministère de l'Agriculture, le secrétariat d'Etat à la Santé et l'ensemble des organismes concernés par les recherches sur les prions :
+établissements de recherche : le CNRS, l'INRA, l'INSERM, le CEA ainsi que l'Institut Pasteur de Paris,
+agences : l'AFSSA (Agence française de sécurité sanitaire des aliments), l'AFSSAPS (Agence française de sécurité sanitaire des produits de santé), l'InVS (Institut de veille sanitaire).
+Ce GIS, qui devrait être dénommé "GIS Infections à prions", encouragera, animera et coordonnera les recherches sur les ESST.
+Ce GIS sera doté d'un comité directeur et d'un conseil scientifique.
+Un Comité directeur de onze membres, représentant chacun des partenaires, délibérera sur la définition et la mise en uvre, dans le cadre des actions définies par l'Etat, de l'ensemble des actions de recherche sur les prions, examinées ou proposées par le conseil scientifique et proposera la répartition des moyens consacrés à ces recherches.
+Un Conseil scientifique de quinze membres, dont au moins un cinquième de membres étrangers sera créé. Ce conseil scientifique élaborera la réflexion stratégique dans le cadre des grands axes définis par l'Etat, se prononcera sur les programmes de recherche proposés ou en cours dans les organismes partenaires, identifiera de nouvelles équipes susceptibles de participer au Programme, développera les contacts avec les institutions et organismes tiers susceptibles d'être concernés par les programmes de recherche.
+Le Secrétariat général du GIS sera placé sous l'autorité d'un secrétaire général. Ce secrétariat général assurera le suivi de l'exécution des actions du GIS.
+La décision du Conseil Recherche du 16 novembre 2000
+Enfin, il importe aussi d'assurer une meilleure harmonisation des efforts de recherche au plan européen.
+Le 16 novembre, à Bruxelles, le ministre français de la Recherche, présidant le Conseil des ministres de la Recherche de l'Union européenne, a fait adopter par celui-ci la décision suivante :
+"Le Conseil invite la Commission à créer, en concertation avec les Etats membres et en liaison avec les mécanismes existants, avant la fin de l'année 2000 un groupe d'experts chargé de dresser le bilan des recherches effectuées sur l'ESB et la maladie de Creutzfeldt-Jakob dans les Etats membres, de favoriser les échanges d'informations scientifiques entre les épuipes de chercheurs et d'indiquer les actions de recherche actuelles à renforcer et les actions nouvelles à engager.
+En ce qui concerne la forme humaine de la maladie, ces actions porteraient en particulier sur la prévention, la détection et la recherche épidémiologique et thérapeutique.
+La Commission a indiqué qu'elle rendra compte des résultats des travaux de ce groupe d'experts à la prochaine réunion des ministres européens de la recherche ".
+Cette prochaine réunion des ministres européens de la Recherche aura lieu en février ou mars 2001.
+Enfin, il convient de rappeler que l'Union européenne contribue au financement de 54 projets de recherche sur les ESST.
+Au plan national comme au plan européen, il importe, plus que jamais, d'agir ensemble, de conjuguer les efforts, de développer les synergies.
+En France, comme le premier ministre l'a annoncé le 14 novembre, l'Etat s'engage avec détermination et multiplie par trois les moyens consacrés à la recherche sur les ESST et les prions.
+Il le fait aussi en renforçant activement la coordination des institutions et organismes de recherche concernés, convaincu que la coopération étroite entre tous les partenaires est la meilleure garantie de la mobilisation des efforts de recherche, qui seront poursuivis et développés pour faire progresser les connaissances au service de tous.
+(Source http://www.recherche.gouv.fr, le 24 novembre 2000)

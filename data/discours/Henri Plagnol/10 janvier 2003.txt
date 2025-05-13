@@ -1,0 +1,107 @@
+Partir des attentes des usagers telle est la démarche fondatrice de notre action. C'est pourquoi je souhaite, en forme de préalable, rappeler les termes utilisés par le Président de la République lors de ses vux au corps constitués du 8 janvier dernier, car ils sont particulièrement révélateurs de notre démarche :
+" Il faut partir des questions simples : les horaires d'ouverture des services publics tiennent-ils suffisamment compte de la disponibilité des usagers ? Vos services apportent-ils une réponse à toutes les demandes qui leur sont adressées ? Que faites vous pour réduire les déplacements, les files et les délais d'attente ? Vous êtes vous assuré que les demandes pouvaient être traitées avec la discrétion nécessaire aux guichets ? Vous êtes vous interrogé sur les raisons pour lesquelles tant de Français se voient éconduits faute de justificatifs ? [] C'est en répondant à ces questions, par une approche très concrète, avec une conscience claire des réalités vécues par nos concitoyens, que nous obtiendrons des résultats. [].Efficacité, proximité mais aussi simplicité : construire un service public tourné vers l'usager, c'est simplifier les règlements et faciliter les démarches administratives. Mettre à la disposition des usagers des formulaires rédigés dans une langue simple. Leur permettre d'effectuer leurs démarches à distance grâce au développement des nouvelles technologies. Instaurer un numéro d'appel unique. Tous ces progrès sont aujourd'hui à la portée des administrations. Ils sont essentiels pour permettre à chacun de faire valoir ses droits. Ils doivent être mis en uvre sans retard. "
+I- Quel bilan peut on dresser aujourd'hui de l'administration électronique ?
+> Les précédents rapports n'ont pas été suivis d'effets
+Comme le souligne P. de la Coste dans son rapport, l'administration électronique a déjà donné lieu à de multiples rapports faisant l'objet d'une communication importante lors de leur publication. Cependant ils ont été suivis de peu d'effets, notamment parce que leurs auteurs " ont négligé la dimension des services aux usagers ". Il convient dorénavant d'aller plus loin que l'analyse et de promouvoir des chantiers concrets afin d'engager la dynamique nécessaire au développement de ces services.
+> les services proposés aux usagers sont insuffisants :
+Le rapport de Pierre de la Coste met en lumière le décalage flagrant entre le discours ambitieux sur les nouvelles technologies et la réalité des services proposés aux usagers :
+- plus de 500 sites .gouv.fr et 4800 sites publics sans apport réel à l'usager qui se retrouve "noyé", sans oublier le coût financier de cette prolifération ;
+- l'absence de mutualisation des services techniques ;
+- la profusion de documents au format PDF qui ne peuvent être qu'imprimés sans toutefois que soient annexées les notices explicatives qui permettraient d'aider l'usager dans sa démarche ;
+- si le document est suffisamment précis pour pouvoir être rempli, il n'est pas certain qu'il soit accepté comme tel par l'administration ;
+- seulement 26 téléprocédures nationales et 46 téléprocédures locales ;
+- l'absence de généralisation de procédés de signature électronique.
+> Il n'est donc pas étonnant que le jugement que portent les usagers sur les services rendus par l'administration électronique soit aujourd'hui plus que mitigée comme le démontre le sondage BVA réalisé par le SIG le mois dernier :
+- l'utilisation d'Internet dans les relations administratives concerne principalement la recherche d'informations administratives (16 % des sondés). Et ceux qui ont essayé l'ont adopté puisque 64 % d'entre eux optent dorénavant pour ce mode de recherche.
+- Cependant dès que la recherche est plus précise, même si elle reste peu impliquante (ex. recherche de formulaire), le taux d'utilisation tombe à 6 %. Ce faible pourcentage témoigne :
+1) du manque d'information des usagers alors qu'aujourd'hui les formulaires en ligne représentent les 2/3 des formulaires papiers
+2) de la crainte des usagers d'être " identifiables " via leur adresse mail alors que les formulaires délivrés au guichet n'imposent pas d'identification.
+Le manque de confiance est encore plus flagrant pour des prestations plus abouties puisque seulement 1 % de la population et 3 % des internautes ont déjà payé des services administratifs sur internet. Certes, le nombre de services offerts est aujourd'hui plus que limité et seul le programme COPERNIC fait état pour les particuliers de 120.000 télédéclarations d'impôts sur le revenu et 165.000 ordres de virement paiements en ligne.
+Mais les réticences des citoyens envers l'administration électronique sont majoritairement liées à leurs inquiétudes vis-à-vis de l'outil lui-même. C'est un faux débat. La technicité et la fiabilité des technologies utilisées sont aujourd'hui avérées. Notre effort doit donc porter avant tout sur la communication et la pédagogie.
+Enfin, les Français (30 %) et plus particulièrement les internautes (39 %) craignent que l'administration ne reçoive tout simplement pas le message envoyé.
+Il me semble indispensable, pour créer la confiance et développer de nouveaux services d'offrir une véritable une valeur ajoutée au support électronique par rapport au support papier. C'est pourquoi l'ensemble des démarches électroniques donnera lieu à un accusé de réception de l'administration afin de ne pas pénaliser et inquiéter inutilement les pionniers de ces nouveaux services. Il conviendra bien évidemment de développer progressivement le même système au sein même des différents services administratifs pour que l'interlocuteur initial puisse s'assurer de la transmission de l'information.
+II- C'est pourquoi il faut définir l'offre à partir de la demande des usagers
+Trop souvent, l'administration a tendance à offrir des services en fonction de ses demandes propres et non pas des besoins réels des usagers.
+Ce n'est pas la technique qui freine l'accès à de nouveaux services, aujourd'hui, mais la culture administrative et, trop souvent, la résistance au changement. Il convient de réformer les mentalités afin de proposer des services qui correspondent réellement aux besoins des usagers.
+En réponse aux véritables attentes des usagers le plus important reste à faire comme en témoigne :
+- le sondage BVA : comparée aux modes de contacts classiques, l'utilisation d'Internet pour les démarches administratives ne représente aujourd'hui que 14 % des démarches mais un tiers des français se disent d'ores et déjà prêts à franchir le pas. Et dans l'ensemble, l'utilisation d'Internet pour les démarches administratives est jugée intéressante par 55 % des français qui y voient les avantages suivants : gains de temps (82 %), possibilité d'effectuer des démarches sans être contraints par les horaires d'ouverture des services publics (72 %), possibilité de suivre son dossiers en temps réel (43 %), rapidité du traitement des dossiers (41 %), ainsi qu'une véritable attente concernant l'accès à de nouveaux services (37 %).
+- la remise par le Forum des Droits sur Internet de la synthèse du débat public faisant suite au Rapport Truche sur la protection des données personnelles. Ce débat riche d'enseignements montre que les Français attendent beaucoup de l'administration électronique comme outil de simplification et de proximité et déplorent le peu de poids des collectivités locales (5 % ont un site Internet) dans le développement de ces nouveaux services.
+Les collectivités locales doivent en effet assumer pleinement leur rôle d'acteur de proximité sans passer à coté des opportunités offertes par les TIC et sans laisser le secteur privé assurer le monopole de l'offre de services.
+- le forum sur l'administration en réseau sur internet.gouv.fr. Les nombreuses contributions (environ 1700 à ce jour) soulignent trois enjeux majeurs pour l'administration électronique : améliorer la qualité des services offerts aux usagers, renforcer la démocratie, réduire les coûts de l'administration.
+- le rapport de Pierre de la Coste qui met en lumière deux étapes indispensables à la réussite de l'e-administration : la retranscription " intelligente " des informations saisies, l'administration n'ayant pas à redemander les informations dont elle dispose où des informations inutiles eu égard à la situation de l'usager. Le décloisonnement des services et le passage à une véritable administration en réseau. Aller vers une entrée unique pour l'usager mettant en relations plusieurs administrations à l'image de Net Entreprise.
+Il ne faut pas les décevoir ces attentes. Au contraire, il faut les capitaliser en proposant une dynamique nouvelle : partir des attentes des usagers et non de l'offre des administrations. Avoir une démarche pragmatique.
+Proposer des services simples visibles à court terme, diffuser les expérimentations, généraliser les bonnes pratiques au sein des administrations. Elargir les services proposés et créer ainsi un cercle vertueux.
+III- Valoriser les projets exemplaires et proposer les outils de réforme de l'Etat.
+C'est dans ce cadre que j'ai confié une mission à P. de la Coste. Je ne vais pas faire ici l'énumération des propositions développées dans le cadre de son rapport que je vous laisse le soin de consulter en ligne dès aujourd'hui sur www.internet.gouv.fr, le site de la Direction du Développement et des Médias. Je reprendrai seulement ici quelques pistes que je souhaitais évoquer avec vous.
+> Valoriser les projets communautaires exemplaires qui pourraient être transposés en France :
+- l'achat public en Italie, ·
+- le système de fourniture d'informations cartographiques en Suède,
+- le dépôt de plaintes sur Internet en Espagne
+- la communication électronique des auxiliaires de justice en Autriche
+- le changement d'adresse en Finlande
+- "Democracy on the net" au Danemark
+- la déclaration d'impôt sur Internet en Grèce
+- l'enregistrement en ligne d'une entreprise nouvelle auprès des greffes en Italie
+Ces deux derniers sujets sont d'ailleurs d'ores et déjà en cours de réalisation en France.
+Je souhaite valoriser ces bonnes pratiques simples et lisibles pour l'usager. En " portant la bonne parole " et en jouant un rôle d'aiguillon auprès des ministères afin de les inciter à mettre en place des services similaires dans notre pays.
+> Renforcer l'accessibilité.
+- développer les bornes interactives dans les lieux publics.
+Les bornes telles que le cyberkiosque de la Poste ou la cyberbase de la CDC permettant toutes deux de développer des outils de proximité notamment dans les zones rurales.
+- réaliser la convergence des différents outils (téléphone, guichet, voie postale) afin de répondre aux exigences de proximité, de qualité, de performance et de dialogue que chacun de nous est en droit d'attendre de l'administration.
+- simplifier l'accès à l'information.
+Le co-marquage est un formidable outil d'information qui permet à chaque collectivité locale d'intégrer dans son portail les éléments contenus dans le portail Internet " service-public.fr " afin d'offrir aux citoyens des éléments à la fois locaux et nationaux. Il faut développer ce type d'initiatives afin de renforcer l'accès des citoyens à l'information tout en favorisant les démarches de proximité.
+Il faut faire de service-public.fr un point d'entrée convergent de l'information administrative.
+- simplifier le langage administratif des formulaires et des informations en ligne afin d'offrir à ceux qui le souhaitent la possibilité d'utiliser les documents de façon autonome, sans que la facilité d'accès soit annihilée par la complexité du formulaire.
+- renforcer l'accessibilité aux handicapés.
+Il faut non seulement prévoir que l'ensemble des services et téléprocédures puissent être développés de façon à être accessibles aux handicapés, ce sera un élément majeur des chartes de qualité que je vais mettre en place au sein des administrations. Mais il faut bien évidemment ne pas s'en tenir là, c'est pourquoi en réponse à la proposition de Pierre de la Coste, je proposerai à Marie-Thérèse Boisseau, Secrétaire d'Etat aux personnes handicapées, d'inscrire dans le cadre du projet de révision de la loi de 1975 sur les handicapés, un volet sur la responsabilité juridique des administrations en cas de non respect des règles d'accessibilité de l'Internet public aux handicapés et aux mal voyants.
+De plus comme le souligne justement P. de la Coste, la mise en place de ces dispositifs tend à améliorer la simplicité et l'ergonomie des sites et peut être utilement repris pour l'ensemble des sites de l'administration.
+> Redéployer les ressources et les personnels administratifs vers de nouveaux services grâce notamment aux économies d'échelles et gains de productivité réalisés par ces nouveaux outils. Le redéploiement de personnel existant est en effet une excellente illustration de ce que doit être la réforme de l'Etat.
+> Développer une nouvelle méthode pour mettre en place des projets concrets.
+Cette méthode doit être fondée sur une démarche pragmatique :
+(i) sortir des grandes lois et des grands plans qui bien souvent sont dépassés par l'évolution technologique avant même de voir le jour.
+(ii) mettre en place rapidement de nouvelles téléprocédures. Comme l'a réaffirmé le Premier Ministre, chaque ministère devra procéder annuellement à la dématérialisation de 2 procédures au minimum. Les ministères se sont d'ores et déjà mobilisés pour dépasser les objectifs européens du plan e-Europe 2005.
+(iii) lancer des projets concrets correspondant aux attentes des usagers :
+* en s'appuyant sur des sondages en amont et les audits tout au long de ces chantiers ;
+* en développant les expérimentations locales ;
+* en mutualisant les bonnes pratiques.
+A titre d'exemple cinq chantiers sont d'ores et déjà programmés :
+- une démarche unique pour notifier un changement d'adresse unique souhaité par 61 % des français;
+- la télé procédure d'obtention d'actes de naissance souhaitée par 63 % des français;
+Ces deux démarches correspondent aux services les plus sollicités par la population.
+- les subventions aux associations ;
+- mon service-public.fr : 3 étapes seront envisagées :
+- la personnalisation des informations diffusées avec le souci de rendre l'information et son accès le plus conforme possible aux besoins des citoyens en fonction des événements de la vie ;
+- la possibilité de gérer à partir de service-public.fr ses dossiers administratifs en ligne ;
+- la possibilité pour l'usager de demander à l'administration les documents dématérialisés le concernant et de les stocker sur un compte à sa disposition afin de renseigner toute nouvelle demande.
+Il est primordial de laisser le choix ce cette démarche à l'usager comme le confirme le sondage BVA, puisque 57 % des Français sont opposés à un croisement des fichiers par l'administration. Cependant 34 % de la population y voit un moyen de traiter plus efficacement ses dossiers. Ce compte personnalisé dont la transmission des informations sous formes dématérialisée serait à l'initiative exclusive de l'intéressé permettrait de combiner ces deux courants.
+Ces nouveaux services seront testés régulièrement auprès des usagers, notamment sur le point précis de savoir si ces données personnelles peuvent être ou non gérées par l'Etat.
+- Enfin, je crois également beaucoup, pour ma part, dans la mise en place de cartes de vie quotidienne.
+Ces cartes de vie quotidienne permettraient à chaque usager dans sa commune d'inscrire les enfants à l'école, de payer les activités sportives, les transports, à avoir accès à ses dossiers sociaux avec une simple carte à puce.
+Mais, si il appartient à l'Etat de donner l'impulsion pour développer de nouveaux services, il ne lui appartient pas de se substituer aux collectivités qui sont les mieux à même d'intégrer les attentes des citoyens. J'ai donc souhaité lancer un appel à projet pour ces cartes de vie quotidienne afin de susciter des candidatures multiples suivi d'une période expérimentale. Cette démarche permettra de combiner personnalisation des services et mutualisation des moyens.
+> Il faut également s'engager sur la traçabilité.
+Elément indispensable à la confiance, il faut que l'usager soit informé du cheminement des données qu'il confie, tout en offrant de véritables services à valeur ajoutée en :
+- supprimant l'obligation de fournir des pièces justificatives " papier " là où une démarche en ligne est possible ; offrant des garanties de sécurité et de confidentialité maximales ;
+- envoyant un accusé de réception avec identification de son interlocuteur pour toute démarche en ligne ;
+- augmentant le taux de réponses aux mails dans l'administration dans un délai raisonnable qui n'est aujourd'hui que de 25 % et [en généralisant l'identification de l'interlocuteur administratif].
+> Faire de l'administration électronique une priorité politique et déployer des moyens humains et financiers cohérents.
+(i) En favorisant l'équipement de l'ensemble du territoire en haut débit
+La France est en retard sur le plan numérique. Le CIADT a décidé de faire sauter un certain nombre de verrous et affiche la volonté du gouvernement, conformément à la volonté du Président de la République, de combattre la fracture numérique.
+a. D'abord en confiant de nouvelles compétences aux collectivités territoriales.
+L'article L1511-6, est actuellement un frein au développement de nos territoires. Concernant le rôle des collectivités nos engagements sont clairs :
+Oui à l'investissement direct, sous maîtrise d'ouvrage publique, dans tout type d'équipement.
+Oui à l'exploitation de ces équipements dans un rôle d'opérateur d'opérateurs.
+Non à l'exploitation de ces équipements dans un rôle d'opérateur de services, sauf dans les zones où de telles compétences pourraient s'avérer nécessaires pour garantir la disponibilité d'une offre de services.
+Les modalités et les conditions de cette intervention accrue des collectivités territoriales seront plus précisément définies après concertation avec les différents acteurs concernés. Ces mesures permettront aux collectivités territoriales de se mobiliser afin d'assurer la couverture des zones où aucune offre d'accès à l'Internet haut débit n'est disponible rapidement.
+b. Ensuite, en élargissant le bénéfice des prêts de la CDC, aujourd'hui limité aux seules collectivités locales, aux porteurs de projets, qu'il s'agisse de groupement de communes, de délégataires de SP ou de SEM.
+c. Enfin, en facilitant l'utilisation des technologies alternatives. Sur le satellite, la redevance de gestion des fréquences sera significativement réduite pour l'utilisation des paraboles de petite puissance.
+Pour conclure, le gouvernement sécurise juridiquement l'intervention des collectivités, facilite l'accès au financement et aux technologies alternatives.
+(ii) En favorisant la politique en faveur des espaces publics numériques.
+L'Etat a décidé de développer une série d'initiatives pour lutter contre le fossé numérique en favorisant, en particulier, l'accès public à l'internet. Il existe aujourd'hui plus de 2500 points d'accès publics à Internet en France, grâce à l'action conjuguée des associations et des collectivités locales et au rôle de l'Etat, à travers la labellisation assurée par la mission pour l'accès public à l'Internet (MAPI) et le programme " Cyberbases " de la CDC. Le Gouvernement mobilise deux millions d'euros pour soutenir la politique de l'accès public à l'Internet, notamment pour favoriser le déploiement sur l'ensemble du territoire de lieux publics d'accès et aider à la constitution de centres de ressources régionaux.
+(iii) En créant une Agence pour le Développement de l'administration électronique.
+Créée auprès du Premier Ministre et mise à la disposition de la Réforme de l'Etat cette agence montre la volonté ferme du gouvernement de faire de l'administration électronique une priorité de son mandat.
+Sa mise en place dans les semaines qui viennent permettra de regrouper les moyens humains et financiers relatifs à l'administration électronique afin de mener à bien les projets ambitieux que nous avons précédemment cités.
+Elles comportera plusieurs pôles et notamment :
+- un pôle stratégie chargé des affaires juridiques, de la communication, de la stratégie administrative, des usagers.
+- un pôle interopérabilité normative des systèmes d'information des services opérationnels d'interconnexion et d'interopérabilité.
+- un pôle de projets interministériels et d'assistance à projet.
+(source http://www.internet.gouv.fr, le 20 janvier 2003)
