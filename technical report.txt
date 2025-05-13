@@ -1,0 +1,7 @@
+technical report:
+problematic, detail of datasets, objectives of analysis according to the objective (why this analisys), present the result with title, axis, comment results of graph etc...
+conclusion; answer to the problematic, difficulties, individual contribution of each members.
+Report may be in french
+
+oral presentation:
+10mn MAX, easy words for a non technical boss and tell what you conclud from your analysis.
