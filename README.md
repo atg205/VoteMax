@@ -13,7 +13,7 @@ This project was conducted as part of the DALAS course (Data Science, Learning a
 
 ## Result
 
-A supervised classification model trained on survey data, achieving ~70% accuracy in predicting political leaning.
+A supervised classification model trained on survey data, achieving ~70% accuracy in predicting political leaning (see the Report.pdf for more details).
 
 ## Authors
 
